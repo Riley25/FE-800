@@ -54,3 +54,4 @@ Banks will sell over the counter (OTC) options, but they need to hedge their ris
 
 <img align = 'center' src='https://raw.githubusercontent.com/Riley25/FE-800/main/plots/DELTA.jpg' width = '350' height = '350' />
 
+[Project Update](https://github.com/Riley25/FE-800/raw/main/GROUP 6 - Team Update - October 18  (v2).pdf)
